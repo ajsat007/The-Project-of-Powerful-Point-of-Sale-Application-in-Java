@@ -1,5 +1,4 @@
 # The-Project-of-Powerful-Point-of-Sale-Application-in-Java
-# project-documentation
 
 <p align="center">
   <a href="" rel="noopener">

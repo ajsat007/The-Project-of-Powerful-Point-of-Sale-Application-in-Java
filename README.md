@@ -64,7 +64,7 @@ https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in
 
 # Project Views
 
-![](https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/Screenshot%20(462).png)
+![](https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/Screenshot%20(462).png).png)
 
 # ⛏️ Built Using `<a name = "built_using"></a>`
 - JSwing and JFrames - Windows based application

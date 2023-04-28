@@ -1,15 +1,16 @@
 # The-Project-of-Powerful-Point-of-Sale-Application-in-Java
+# project-documentation
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="" alt="Project logo"></a>
+ <img width=200px height=200px src="[https://github.com/ajsat007/Hospital-Management-System/blob/main/1631271495780.png" alt="Project log](https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/logo_pos1_836b5509-7b49-4372-87f4-5436426ad730_1200x1200.avif)o"></a>
 </p>
 
 <h3 align="center">The Point Of Sale Java</h3>
 
 <div align="center">
 
-  [![Status](https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/logo_pos1_836b5509-7b49-4372-87f4-5436426ad730_1200x1200.avif)]()
+  [![Status](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fhospital-management-system%3Fl%3Dpython&psig=AOvVaw11txWWXobtW-hg6xS2NoI1&ust=1682595253838000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDy9_y5x_4CFQAAAAAdAAAAABAE)]()
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 

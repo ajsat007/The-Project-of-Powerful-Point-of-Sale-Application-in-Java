@@ -1,9 +1,8 @@
 # The-Project-of-Powerful-Point-of-Sale-Application-in-Java
-# project-documentation
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/ajsat007/Hospital-Management-System/blob/main/1631271495780.png" alt="Project logo"></a>
+ <img width=200px height=200px src="" alt="Project logo"></a>
 </p>
 
 <h3 align="center">The Point Of Sale Java</h3>
@@ -59,23 +58,16 @@ Java 17 or higher.
 https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java.git  Give the example
 ```
 
-3.Imported it in Intellij IDEA or any other Java IDE.
+3.Imported it in NetBean IDE or any other Java IDE.
 
 4.Run the application :
 
 # Project Views
 
-## 🎈 Login Panels  `<a name="usage"></a>`
-
-## Receptionist Login Panel:-
-
 ![](https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/Screenshot%20(462).png)
 
 # ⛏️ Built Using `<a name = "built_using"></a>`
-
-- MySQL - Database
 - JSwing and JFrames - Windows based application
-- JDBC - Java API to connect and execute the query with database
 
 # ✍️ Authors `<a name = "authors"></a>`
 

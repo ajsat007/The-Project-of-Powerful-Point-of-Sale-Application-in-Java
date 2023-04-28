@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/logo_pos1_836b5509-7b49-4372-87f4-5436426ad730_1200x1200.avif" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in-Java/blob/main/logo_pos1_836b5509-7b49-4372-87f4-5436426ad730_1200x1200.avif" alt="Project logo"></a>
 </p>
 
 <h3 align="center">The Point Of Sale Java</h3>

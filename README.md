@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  [![Status](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fhospital-management-system%3Fl%3Dpython&psig=AOvVaw11txWWXobtW-hg6xS2NoI1&ust=1682595253838000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDy9_y5x_4CFQAAAAAdAAAAABAE)]()
+ [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 

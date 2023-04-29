@@ -71,7 +71,7 @@ https://github.com/ajsat007/The-Project-of-Powerful-Point-of-Sale-Application-in
 
 # ✍️ Authors `<a name = "authors"></a>`
 
-- [@a](https://github.com/kylelobo)jinkyasatkar - Idea & Initial work
+- [@ajinkyasatkar](https://github.com/kylelobo) - Idea & Initial work
 
 # 🎉 Acknowledgements `<a name = "acknowledgement"></a>`
 
